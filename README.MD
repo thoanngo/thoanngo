@@ -1,4 +1,4 @@
-<div>
+<div bg_color=rgb(0,0,0)>
 <h1></h1>
 <br />
 
